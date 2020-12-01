@@ -3,3 +3,4 @@
 3、程序员三大难题：①要不要加1 1-offset ②怎样命名 naming problem ③缓存失效 cache push
 4、一黑一白 搜 css gradient background https://cssgradient.io/
 5、#div1::before{content: '1';  } 伪元素
+6、建议每次修改后 都 parcel build src/index.html 一下
